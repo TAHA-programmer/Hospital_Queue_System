@@ -1,1 +1,2 @@
 # Hospital_Queue_System
+Developed a C++ hospital queue system to manage patient admissions and removals efficiently. Features included user input for patient details, dynamic queue management for multiple queues, saving/loading configurations, and a menu-driven interface for adding and removing patients. The system ensured accurate and organized handling of patient data, improving hospital operations.
